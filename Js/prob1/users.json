@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Bronw",
+        "age": 21,
+        "phone": null,
+        "status": true,
+        "language": [
+            "English",
+            "Thai",
+            "Chinese"
+        ],
+        "general": {
+            "weight": 70,
+            "height": 1.75,
+            "gendar": "Man"
+        }
+    },
+    {
+        "name": "Bew",
+        "age": 21,
+        "phone": null,
+        "status": true,
+        "language": [
+            "English",
+            "Thai",
+            "Chinese"
+        ],
+        "general": {
+            "weight": 70,
+            "height": 1.75,
+            "gendar": "Man"
+        }
+    },
+    {
+        "name": "john",
+        "age": 21,
+        "phone": null,
+        "status": true,
+        "language": [
+            "English",
+            "Thai",
+            "Chinese"
+        ],
+        "general": {
+            "weight": 70,
+            "height": 1.75,
+            "gendar": "Man"
+        }
+    }
+]
