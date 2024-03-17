@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.box {
+  background-color: #f0f0f0; /* ตั้งค่าสีพื้นหลังเป็นสีเทาอ่อน */
+  border: 1px solid #ccc; /* กำหนดเส้นขอบ */
+  padding: 10px; /* กำหนดการเพิ่มขอบ */
+  margin-bottom: 10px; /* กำหนดการเพิ่มขอบด้านล่าง */
+}
+
+.box strong {
+  color: #333; /* กำหนดสีข้อความเป็นสีเทาเข้ม */
+}
+
+.box p {
+  color: #666; /* กำหนดสีข้อความของย่อหน้า */
+}

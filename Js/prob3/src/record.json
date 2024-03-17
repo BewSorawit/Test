@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "WebStylePress",
+        "content": "content goes here...",
+        "tech": [
+            {
+                "name": "JavaScript"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "WSP",
+        "content": "Lorem ipsum dolor sit amet, consectetur",
+        "tech": [
+            {
+                "name": "Reactive"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Records",
+        "content": "How is how we display records from json files",
+        "tech": [
+            {
+                "name": "Python"
+            }
+        ]
+    }
+]
